@@ -2,7 +2,7 @@
   "agencyId": "0-249-332",
   "branding": {
     "logoUrl": "https://cdn.yoursite.com/logos/agency-logo.png",
-    "primaryColor": "#0958a5",
+    "primaryColor": "#FAFF00",
     "dashboardTitle": "Welcome to Your Agency Portal"
   },
   "headerButtons": [
